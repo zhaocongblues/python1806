@@ -12,3 +12,5 @@ wobu
 hehehhehhehehehe
 不想说
 阿凯是个小狗狗
+
+print("this is a ssh")
