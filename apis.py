@@ -7,3 +7,5 @@ gougou
 print（"this is a print"）
 print("haha")
 print("bug 年年有")
+hehehhehhehehehe
+不想说
