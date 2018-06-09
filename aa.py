@@ -4,3 +4,10 @@ auaichixigua
 
 wobu
 print("I am zhaocong")
+wwwwasdasdasdsadsd	sdfFDdfsdfsetygtyefwefwsdf
+jjjjjjjkjlkxdkgljoi
+aasad
+adss
+I want fly
+you must try
+我是个大傻子
